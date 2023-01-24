@@ -1,4 +1,5 @@
-Hopefully this works for you. It's not made to be run as is. No warranty made as is. If you end up nuking your collection, that's your fault, but you can hire me to fix it :)
+Hopefully this works for you. It's not made to be run as is. No warranty made as is.\
+If you end up nuking your collection, that's your fault, but you can hire me to fix it :)
 
 To setup:\
 yarn install\
