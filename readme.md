@@ -7,4 +7,4 @@ Make sure you fill out the rest of the stuff.\
 Make sure you have the hashLists directory, and put your hashlist in there.\
 \
 To run:\
-ts-node update.ts\
+ts-node update.ts
